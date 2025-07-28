@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Prince Raj!</h1>
 
 <p align="center">
-  <img src="https://assets.leetcode.com/users/prince12raj/avatar_1685746469.png" width="120" height="120" style="border-radius: 50%;" alt="LeetCode Profile Picture"/>
-</p>
-
-<p align="center">
   🎓 <b>Computer Science Undergraduate</b> @ Galgotias University (2023–2027)<br>
   💻 Passionate about coding, AI-powered apps, and solving real-world tech problems
 </p>
@@ -86,5 +82,6 @@
 
 ---
 
-> ⚡ *“Consistency beats talent when talent doesn’t work consistently.”*  
-> Let’s build something amazing together! 🚀
+> “⚡ Consistency beats talent when talent doesn’t work consistently.”  
+> Let’s build something amazing together!
+

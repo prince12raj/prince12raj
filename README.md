@@ -68,8 +68,16 @@
 🔗 [**Fake Social Media Account Detection**](https://github.com/prince12raj/finalguviprincegroup)  
 > Detects fake accounts using behavioral analysis, ML models, Flask API, React UI, and blockchain-secured logs.
 
-🔗 **Online Voting System**  
-> A secure, real-time voting system with authentication, built using HTML, CSS, JS, and MySQL. *(Private Repo)*
+🔗 [**Online Voting System**](https://github.com/prince12raj/finalguviprincegroup)  
+> A secure, real-time voting system with authentication, built using HTML, CSS, JS, and MySQL.
+
+---
+
+## 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prince12raj?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats">
+</p>
 
 ---
 
@@ -84,4 +92,3 @@
 
 > “⚡ Consistency beats talent when talent doesn’t work consistently.”  
 > Let’s build something amazing together!
-

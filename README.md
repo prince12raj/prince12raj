@@ -59,6 +59,7 @@
 - 🥇 **Finalist** – IDEATHON @ DTU *(AI/ML in Healthcare)*
 - 🥈 **4th Place** – Ignition Hackathon @ GBU *(ML + API Project)*
 - ⚡ **Participant** – Hackmania @ Microsoft Gurugram *(AI for Smart Alerts)*
+- 🥇 **First Runner up** -Hackloop @Thought Work Technology*(Forgotten Dose)*
 - 🧠 **Intern** – AICTE Virtual Internship *(AI & ML + AWS Academy)*
 
 ---
